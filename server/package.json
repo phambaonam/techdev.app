@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Github behavior management backend",
+  "main": "index.js",
+  "author": "phambaonam",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/Phambaonam/github-behavior-management.git"
+	},
+  "license": "MIT"
+}
